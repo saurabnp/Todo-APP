@@ -5,10 +5,7 @@
 #include <conio.h>
 
 using namespace std;
-class New_note
-{
-    string todo;
-};
+
 int main()
 {
     bool working = true;
